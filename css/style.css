@@ -754,8 +754,7 @@ body {
     position: absolute;
     top: 40%;
     text-align: center;
-    transform: translate(-50%, -50%);
-    width: 70rem; }
+    transform: translate(-50%, -50%); }
 
 .footer {
   background-color: #333;
